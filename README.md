@@ -1,1 +1,1 @@
-# This is production-build for [skillbox-vue](https://github.com/nikita-bondarenko/skillbox-vue).
+# This is a production build for [skillbox-vue](https://github.com/nikita-bondarenko/skillbox-vue).
